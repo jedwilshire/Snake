@@ -6,11 +6,7 @@ NUMCOLS = 30
 WIDTH = TILESIZE * NUMROWS
 HEIGHT = TILESIZE * NUMCOLS
 
-TITLE = 'Snake'
+TITLE = 'Python'
 BGCOLOR = SIENNA
 
-#Enums
-UP = 'up'
-DOWN = 'down'
-LEFT = 'left'
-RIGHT = 'right'
+NUMAPPLES = 10
